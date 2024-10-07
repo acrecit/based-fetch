@@ -40,6 +40,6 @@ Contributions to based-fetch are welcome! Please feel free to submit a Pull Requ
 
 ## Contact
 
-Acreciti - acrecit@gmail.com
+Acreciti - acreciti@gmail.com
 
 Project Link: [https://github.com/acrecit/based-fetch](https://github.com/acrecit/based-fetch)
