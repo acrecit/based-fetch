@@ -24,7 +24,7 @@ To install based-fetch, follow these steps:
    ```
 2. Navigate to the project directory:
    ```
-   cd based-fetch
+   cd based-fetch/bin
    ```
 
 
@@ -32,7 +32,7 @@ To install based-fetch, follow these steps:
 
 To run based-fetch, use the following command:
 
-./based.fetch
+./based-fetch
 
 ## Contributing
 
